@@ -138,4 +138,4 @@ In **`SCL_data` (XYZ Internal Table)**, associate the part with the **free surfa
 
 ## 📝 Notes
 
-- The initial wave information file can be generated using the online tool: [Wave Initialization Tool](https://etherhelm.com/waveini/)
+- The initial wave information file can be generated using the online tool: [Wave Initialization Tool](https://etherhelm.com/waveIni/)

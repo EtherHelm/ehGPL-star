@@ -136,4 +136,4 @@ scl_wave
 
 ## 📝 备注
 
-- 初始波浪信息可通过在线工具生成：[Wave Initialization Tool](https://etherhelm.com/waveini/)
+- 初始波浪信息可通过在线工具生成：[Wave Initialization Tool](https://etherhelm.com/waveIni/)
