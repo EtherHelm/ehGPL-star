@@ -1,0 +1,5 @@
+#ignore cmake build directory
+/build/
+plotter
+.vscode
+CMakePresets.json
